@@ -5,7 +5,7 @@ Vue.use(Vuex)
 
 export default new Vuex.Store({
   state: {
-    url_base: 'http://192.168.100.5:3000/api/',
+    url_base: 'http://192.168.5.113:3000/api/',
   },
   mutations: {
 
